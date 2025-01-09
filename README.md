@@ -97,5 +97,7 @@ The combined analysis using SQL and Python provides valuable insights into produ
 ## Tools Used
 - **SQL**: For data aggregation and querying.
 - **Python (Dash and Plotly)**: For visualisation and dynamic reporting.
+- **Jupyter Notebook**: For exploratory data analysis, integration, and documentation.
+
 
 Dash is running on http://127.0.0.1:8051/
